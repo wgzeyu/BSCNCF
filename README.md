@@ -1,0 +1,2 @@
+# BSCNCF
+使用Spedoske/CloudflareScanner的扫描结果，将Beat Saber相关地址修改HOSTS切换到更快的CFIP
